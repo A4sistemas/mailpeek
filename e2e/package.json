@@ -9,8 +9,8 @@
   "devDependencies": {
     "@mailpeek-dev/client": "^0.1.0",
     "@mailpeek-dev/playwright": "^0.1.0",
-    "@playwright/test": "^1.63.0",
+    "@playwright/test": "^1.64.1",
     "@types/nodemailer": "^8.0.2",
-    "nodemailer": "^10.0.10"
+    "nodemailer": "^10.1.7"
   }
 }
